@@ -55,7 +55,7 @@ function NavSections() {
                     }
                 </ul>
 
-                <div className={`ml-4 pl-24 py-4 rounded-l-full bg-gradient-to-l from-gray-800 via-gray-800  to-green-800 bg-custom transition-all duration-500 
+                <div className={`ml-4 pl-24 py-4 md:flex md:justify-end rounded-l-full bg-gradient-to-l from-gray-800 via-gray-800  to-green-800 bg-custom transition-all duration-500 
                     ${animate ? "translate-x-96 opacity-0" : ""}`}>
                     {
                         content
