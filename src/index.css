@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.big-text-shadow { 
+  text-shadow: 5px 5px 10px rgba(144, 144, 144, 0.5); /* Adjust the values as needed */ 
+}
+.no-scrollbar::-webkit-scrollbar { 
+  display: none; /* Hide scrollbar for WebKit-based browsers */ } 
+.no-scrollbar { 
+  -ms-overflow-style: none; /* Hide scrollbar for IE and Edge */ 
+  scrollbar-width: none; /* Hide scrollbar for Firefox */
+}
