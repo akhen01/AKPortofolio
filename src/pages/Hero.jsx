@@ -27,14 +27,14 @@ function Intro() {
             </p>
             <p className='text-start md:text-xl text-green-900 flex justify-start items-end font-bold'>
               <p>I&apos;m </p>  
-              <p className='ml-2 text-3xl md:text-5xl font-extrabold'>
+              <p className='ml-2 text-2xl md:text-5xl font-extrabold'>
                     ALEXANDER BRHANE
               </p> 
             </p>
-            <p className='text-start text-2xl md:text-3xl text-green-800 my-6'>
+            <p className='text-start text-xl md:text-3xl text-green-800 my-6'>
               Web Developer
             </p>
-            <Link to={"https://www.instagram.com/neln_studio"} className='text-gray-300 bg-green-900 p-1 px-2 rounded-2xl text-center hover:bg-black hover:text-green-300'>
+            <Link to={"https://www.instagram.com/neln_studio"} className='text-green-300 bg-green-900 p-1 px-2 rounded-2xl text-center hover:bg-green-300 hover:text-gray-700 font-bold'>
               Contact me
             </Link>
 
