@@ -23,8 +23,8 @@ function About() {
             </h1>
             <div className='p-4'>
             <p className='text-start my-2'>
-            I grew up in Asmara, where I developed a deep-seated passion for entrepreneurial opportunities and an enduring fascination with emerging technologies. 
-            My interests span across blockchain, web3, virtual reality (VR), augmented reality (AR), and 3D art.
+            Having a deep-seated passion for entrepreneurial opportunities and an enduring fascination with emerging technologies. 
+            My interests span across blockchain, web3, virtual reality (VR), augmented reality (AR), 3D art and so many others.
             These cutting-edge fields continuously inspire me to innovate and push the boundaries of what’s possible.
             </p>
             <ul>
